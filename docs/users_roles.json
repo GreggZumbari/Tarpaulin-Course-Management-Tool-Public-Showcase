@@ -1,0 +1,63 @@
+{
+    "roles": [
+        {
+            "name": "admin",
+            "description": "Administrator."
+        },
+        {
+            "name": "instructor",
+            "description": "Instructor."
+        },
+        {
+            "name": "student",
+            "description": "Student."
+        }
+    ],
+    "users": [
+        {
+            "email": "admin1@osu.com",
+            "password": "MaterialGirl1",
+            "role": "admin"
+        },
+        {
+            "email": "instructor1@osu.com",
+            "password": "MaterialGirl1",
+            "role": "instructor"
+        },
+        {
+            "email": "instructor2@osu.com",
+            "password": "MaterialGirl1",
+            "role": "instructor"
+        },
+        {
+            "email": "student1@osu.com",
+            "password": "MaterialGirl1",
+            "role": "student"
+        },
+        {
+            "email": "student2@osu.com",
+            "password": "MaterialGirl1",
+            "role": "student"
+        },
+        {
+            "email": "student3@osu.com",
+            "password": "MaterialGirl1",
+            "role": "student"
+        },
+        {
+            "email": "student4@osu.com",
+            "password": "MaterialGirl1",
+            "role": "student"
+        },
+        {
+            "email": "student5@osu.com",
+            "password": "MaterialGirl1",
+            "role": "student"
+        },
+        {
+            "email": "student6@osu.com",
+            "password": "MaterialGirl1",
+            "role": "student"
+        }
+    ]
+}
